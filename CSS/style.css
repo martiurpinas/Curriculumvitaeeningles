@@ -54,10 +54,10 @@ header::after {
     width: 180px !important;
     height: 180px !important;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
+    background: #fff;
     border: 6px solid #fff;
     box-shadow: 0 0 0 8px #a084ee55, 0 8px 32px #4f8cff33;
-    background: #fff;
     transition: box-shadow 0.3s;
 }
 .profile-photo:hover {
