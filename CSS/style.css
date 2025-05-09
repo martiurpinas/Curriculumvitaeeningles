@@ -315,6 +315,7 @@ section {
     margin-right: 6px;
 }
 
+/* Footer styles */
 footer {
     text-align: center;
     padding: 24px 0 10px 0;
@@ -325,7 +326,7 @@ footer {
     box-shadow: 0 -2px 12px #4f8cff22;
     margin-top: 24px;
     letter-spacing: 1px;
-    }
+}
     
 /* --- Video block --- */
 .video-block {
